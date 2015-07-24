@@ -1,0 +1,29 @@
+/*
+ Theme Name:   Kihon Child
+ Theme URI:    http://example.com/kihon-child/
+ Description:  Kihon Child Theme
+ Author:       John Doe
+ Author URI:   http://example.com
+ Template:     kihon
+ Version:      1.0.0
+ Tags:         Black, Custom Colors, Dark, Editor Style, Featured Images, Light, One Column, Responsive Layout, Right Sidebar, Sticky Post, Theme Options, Translation Ready, Two Columns, White
+ Text Domain:  kihon-child
+*/
+
+body {
+  background: #F16839;
+}
+
+#text-2 {
+  height: 350px;
+}
+
+#hb-form { 
+  height: 120px;
+}
+
+#input_4, 
+#input_5 { 
+  color: #CCCBCB; 
+  background-color: #EFEFEF; 
+}
