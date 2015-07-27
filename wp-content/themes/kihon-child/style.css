@@ -70,9 +70,15 @@ input[type="submit"]:active,
 #cancel-comment-reply-link:active,
 #cancel-comment-reply-link:focus {
   color: #FFFFFF;
-  background-color: #1ea8b4;
+  background-color: #198689;
 }
 
 #site-header h1 a:hover {
   background: none; 
+}
+
+.footer-social a {
+  background-color: #f1f1f1;
+  display: inline-block;
+  border-radius: 50%;
 }
