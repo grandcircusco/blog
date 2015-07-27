@@ -16,21 +16,21 @@
 
 // ** MySQL settings - You can get this info from your web host ** //
 /** The name of the database for WordPress */
-define('DB_NAME', 'wordpress');
+define('DB_NAME', 'grandcircus_co');
 
 /** MySQL database username */
-define('DB_USER', 'wordpress');
+define('DB_USER', 'grandcircusco');
 
 /** MySQL database password */
-define('DB_PASSWORD', 'pfpVD3SUQpRrVYHN');
+define('DB_PASSWORD', 'Dd5vjkBQ');
 
 /** MySQL hostname */
-define('DB_HOST', 'localhost');
+define('DB_HOST', 'mysql.grandcircus.co');
 
 /** Database Charset to use in creating database tables. */
 define('DB_CHARSET', 'utf8');
 
-/** The Database Collate type. Don't change this if in doubt. */
+/** The Database Collate type. Don't change this if .in doubt. */
 define('DB_COLLATE', '');
 
 /**#@+
