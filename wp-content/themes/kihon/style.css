@@ -291,7 +291,7 @@ big {
 }
 a,
 a:visited {
-  color: #1EA8B4;
+  color: #38a16a;
   text-decoration: none;
 }
 a:hover,
@@ -638,7 +638,7 @@ figcaption {
   width: 60px;
   height: 2px;
   margin: 30px 0;
-  background-color: #1EA8B4;
+  background-color: #38a16a;
 }
 .featured-thumbnail img {
   border-top-left-radius: 5px;
@@ -651,7 +651,7 @@ figcaption {
   margin-right: 5px;
   display: inline-block;
   color: #fff;
-  background-color: #1EA8B4;
+  background-color: #38a16a;
   font-size: 9px;
   padding: 2px 7px;
   border-radius: 5px;
@@ -664,7 +664,7 @@ figcaption {
 .page-header {
   margin-bottom: 40px;
   padding: 20px 40px;
-  background-color: #1EA8B4;
+  background-color: #38a16a;
   border-radius: 5px;
 }
 .page-title {
@@ -718,7 +718,7 @@ input[type="submit"] {
   padding: 12px 30px;
   border-radius: 5px;
   color: #ffffff;
-  background-color: #1EA8B4;
+  background-color: #38a16a;
 }
 button:hover,
 input[type="button"]:hover,
@@ -797,7 +797,7 @@ textarea {
   padding: 12px 30px;
   border-radius: 5px;
   color: #ffffff;
-  background-color: #1EA8B4;
+  background-color: #38a16a;
 }
 .button:hover,
 .button:focus,
@@ -955,7 +955,7 @@ textarea {
     margin-right: 5px;
   }
   .toggle-header-menu.is-active {
-    background-color: #1EA8B4;
+    background-color: #38a16a;
   }
   .toggle-header-submenu {
     font-size: 10px;
@@ -1026,7 +1026,7 @@ textarea {
   padding: 0 7px;
   border-radius: 5px;
   color: #fff;
-  background-color: #1EA8B4;
+  background-color: #38a16a;
   margin: 0 3px;
 }
 .page-links a .page-link {
@@ -1034,12 +1034,12 @@ textarea {
   color: #ccc;
 }
 .page-links a .page-link:hover {
-  color: #1EA8B4;
+  color: #38a16a;
 }
 .posts-navigation a {
   display: inline-block;
   padding: 12px 25px;
-  background-color: #1EA8B4;
+  background-color: #38a16a;
   font-family: 'Montserrat', 'Arial Black', sans-serif, 'Arial', 'Helvetica Neue', sans-serif;
   text-transform: uppercase;
   font-size: .75em;
@@ -1079,7 +1079,7 @@ textarea {
 }
 .page-numbers.current {
   color: #fff;
-  background-color: #1EA8B4;
+  background-color: #38a16a;
 }
 @media screen and (max-width: 769px) {
   .post-navigation .nav-previous,
@@ -1113,7 +1113,7 @@ textarea {
   text-align: center;
   border-radius: 5px;
   color: #fff;
-  background-color: #1EA8B4;
+  background-color: #38a16a;
   position: absolute;
   top: -60px;
   left: 0;
@@ -1199,7 +1199,7 @@ textarea {
   font-family: 'FontAwesome';
   content: "\f10d";
   font-size: 24px;
-  color: #1EA8B4;
+  color: #38a16a;
 }
 /* For mobile */
 @media screen and (max-width: 768px) {
@@ -1381,7 +1381,7 @@ textarea {
   font-size: .7857em;
   padding: 3px 7px;
   line-height: 1;
-  background-color: #1EA8B4;
+  background-color: #38a16a;
   border-radius: 5px;
 }
 .comment-date {
@@ -1434,7 +1434,7 @@ textarea {
   content: '';
   width: 30px;
   height: 2px;
-  background-color: #1EA8B4;
+  background-color: #38a16a;
 }
 #cancel-comment-reply-link {
   margin-left: 10px;
@@ -1444,7 +1444,7 @@ textarea {
   font-size: .8571em;
   padding: 2px 7px;
   margin-top: -2px;
-  background-color: #1EA8B4;
+  background-color: #38a16a;
   border-radius: 5px;
 }
 #cancel-comment-reply-link:hover,
@@ -1507,7 +1507,7 @@ textarea {
   font-family: 'FontAwesome';
   color: #fff;
   font-size: 5px;
-  background-color: #1EA8B4;
+  background-color: #38a16a;
   border-radius: 2px;
   position: absolute;
   top: 5px;
@@ -1568,5 +1568,5 @@ input.search-field {
 .tagcloud a:hover,
 .tagcloud a:active {
   color: #fff;
-  background-color: #1EA8B4;
+  background-color: #38a16a;
 }

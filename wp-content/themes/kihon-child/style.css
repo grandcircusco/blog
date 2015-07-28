@@ -34,6 +34,38 @@ body {
   max-width: 1000px; 
 }
 
+a,
+a:visited,
+.page-links a,
+.page-link:hover,
+.entry-content blockquote:before {
+  color: #1ea8b4; 
+}
+
+.title-sep,
+.edit-link a,
+.page-header,
+button,
+input[type="button"],
+input[type="reset"],
+input[type="submit"],
+.button,
+.toggle-header-menu.is-active,
+.page-links,
+.page-link,
+.posts-navigation a, 
+.page-numbers.current,
+.sticky,
+.entry-header:after,
+.bypostauthor .comment-author-name:after, 
+.comment-reply-title:after, 
+#cancel-comment-reply-link, 
+.widget li:before,
+.tagcloud a:hover,
+.tagcloud a:active {
+  background-color: #1ea8b4; 
+}
+
 a:hover,
 a:focus,
 a:active,
