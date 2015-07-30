@@ -116,3 +116,8 @@ input[type="submit"]:active,
   border-radius: 50%;
   color: #1ea8b4;
 }
+
+#site-header {
+    background: transparent url(Background.jpg) top center no-repeat;
+    background-size: cover;
+}
