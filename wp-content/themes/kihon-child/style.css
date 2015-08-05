@@ -1,17 +1,19 @@
 /*
  Theme Name:   Kihon Child
- Theme URI:    http://example.com/kihon-child/
- Description:  Kihon Child Theme
- Author:       John Doe
- Author URI:   http://example.com
- Template:     kihon
- Version:      1.0.0
- Tags:         Black, Custom Colors, Dark, Editor Style, Featured Images, Light, One Column, Responsive Layout, Right Sidebar, Sticky Post, Theme Options, Translation Ready, Two Columns, White
  Text Domain:  kihon-child
 */
 
 body {
-  background: #F16839;
+  background: #EFEFEF; 
+}
+
+.entry-footer {
+  background-color: #F16839; 
+  font-family: Brandon Grotesque Black;
+}
+
+input.search-field {
+  background-color: #EFEFEF;
 }
 
 #text-2 {
@@ -24,7 +26,7 @@ body {
 
 #input_4, 
 #input_5 { 
-  color: #888888; 
+  color: #CCCBCB; 
   background-color: #EFEFEF; 
 }
 
@@ -136,6 +138,8 @@ h6 {
   font-family: Brandon Grotesque Black;
 }
 
-button {
+.entry-meta, 
+button, 
+.post-edit-link {
   font-family: Brandon Grotesque Black;
 }
