@@ -1,5 +1,12 @@
 /*
  Theme Name:   Kihon Child
+ Theme URI:    http://example.com/kihon-child/
+ Description:  Kihon Child Theme
+ Author:       John Doe
+ Author URI:   http://example.com
+ Template:     kihon
+ Version:      1.0.0
+ Tags:         Black, Custom Colors, Dark, Editor Style, Featured Images, Light, One Column, Responsive Layout, Right Sidebar, Sticky Post, Theme Options, Translation Ready, Two Columns, White
  Text Domain:  kihon-child
 */
 
@@ -10,6 +17,11 @@ body {
 .entry-footer {
   background-color: #F16839; 
   font-family: Brandon Grotesque Black;
+}
+
+.entry-meta span, 
+.entry-footer span {
+  opacity: 1;
 }
 
 input.search-field {
