@@ -1,12 +1,7 @@
 /*
  Theme Name:   Kihon Child
- Theme URI:    http://example.com/kihon-child/
  Description:  Kihon Child Theme
- Author:       John Doe
- Author URI:   http://example.com
  Template:     kihon
- Version:      1.0.0
- Tags:         Black, Custom Colors, Dark, Editor Style, Featured Images, Light, One Column, Responsive Layout, Right Sidebar, Sticky Post, Theme Options, Translation Ready, Two Columns, White
  Text Domain:  kihon-child
 */
 
@@ -24,18 +19,23 @@ body {
   opacity: 1;
 }
 
+
+/*INPUT FIELD COLORS*/
 input.search-field {
   background-color: #EFEFEF;
 }
 
+/*HATCHBUCK WIDGET*/
 #text-2 {
   height: 350px;
 }
 
+/*HATCHBUCK WIDGET*/
 #hb-form { 
   height: 120px;
 }
 
+/*HATCHBUCK INPUT FIELDS*/
 #input_4, 
 #input_5 { 
   color: #CCCBCB; 
@@ -48,6 +48,7 @@ input.search-field {
   max-width: 1000px; 
 }
 
+/*LINKS*/
 a,
 a:visited,
 .entry-content blockquote:before, 
@@ -55,6 +56,7 @@ a:visited,
   color: #1ea8b4; 
 }
 
+/*BUTTON & OTHER COLOR SCHEME*/
 .title-sep,
 .edit-link a,
 .page-header,
@@ -80,6 +82,7 @@ input[type="submit"],
   background-color: #1ea8b4; 
 }
 
+/*HOVER COLOR SCHEME*/
 a:hover,
 a:focus,
 a:active,
